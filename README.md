@@ -38,6 +38,6 @@ The data can be searched with individual search critera or the results can be fu
 
 There are a few improvements that can help to make the webpage more user friendly.
 
-- Personally I think users would like a "search" button and perhaps a "reset table" function. This would minimize confusion on wether or not they think the table was updated.
+- Users may like a "search" button and perhaps a "reset table" function. This would minimize confusion on wether or not they think the table was updated.
 - With the shapes filter there are a lot of results on the page. A filter to sort by alphabetical by city or state would be helpful.
-- Maybe a duration filter with a few bins in minutes if people want to look at how different UFO encounters are affected by time.
+- A duration filter with a few bins with incrimental minutes. If people want to look at how different UFO encounters are affected by time.
