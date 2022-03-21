@@ -6,7 +6,7 @@ We were tasked with building a webpage and dynamic table with UFO data for Dana.
 
 ## Resources
 
-Created a Flask app on UFO data.
+Created a HTML Flask app on UFO data.
 
 - Python 3.9.7
 - VS Code 1.65.2
